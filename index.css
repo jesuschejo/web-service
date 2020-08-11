@@ -1,0 +1,44 @@
+h3{
+    padding: 20px 0px 0px 20px;
+    color: white;
+}
+
+body{
+    background-color: black;    
+}
+
+div{
+    background-color: black;
+    padding: 15px 90px 0px 70px;
+}
+
+label{
+    color: white;
+}
+
+input{
+    padding: 0px 10px 0px 20px;
+    margin: 0px 0px 0px 20px;
+}
+
+nav{
+    color: white;
+    background-color: #0f171e ;
+    padding: 0px 20px 10px 20px;
+}
+
+table{
+    background-color: rgb(228, 227, 224) ;
+}
+
+form{
+    background-color: black;
+}
+
+h2{
+    color: white;
+}
+
+h1{
+    color: white;
+}
